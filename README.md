@@ -1,14 +1,3 @@
-# .
-
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ## Project Setup
 
@@ -27,3 +16,10 @@ npm run dev
 ```sh
 npm run build
 ```
+
+
+## You can use this laravel project to get API
+- [Laravel Crud API](https://github.com/creativesaiful/Crud-Api-Laravel-.git) 
+
+## Laravel Crud API Documentation
+- [Click to go to documentation page](https://documenter.getpostman.com/view/22363036/2s9YeN39Re).
